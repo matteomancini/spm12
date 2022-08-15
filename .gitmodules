@@ -1,0 +1,3 @@
+[submodule "hMRI-toolbox"]
+	path = hMRI-toolbox
+	url = https://github.com/hMRI-group/hMRI-toolbox.git
